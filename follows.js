@@ -12,7 +12,7 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'NenoEZfJrkHc0hob0uu17gX4OgucdxDdN2WraX2ERZ3xAjko', // Unique master Xively API key to be used as a default
+	var defaultKey		= 'LjGwmnap11ZIz6eUk6l3koxOuF8Lf2oflff6Jc9JgQxbKai7', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [1855538582], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Domestic Hot Water Tank heat Enable', // Replaces Xively logo in the header
 		dataDuration	= '90days', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
